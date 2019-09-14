@@ -7,6 +7,17 @@ Since we are submitting in journal, we currently cannot make the code public, ho
 The model can be found in the following link : https://drive.google.com/open?id=1B7KvOMZI1nMkcuUrXrZnNZ0ptG2vs7Tp
 
 Instructions 
+## Result on Berkley Deep Drive Dataset
+
+![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/tree/master/images/bdd/merge.png)
+
+## Result on Cityscapes Dataset
+
+![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/tree/master/images/cityscapes/merge.png)
+
+## Result on Mapillary Dataset
+
+![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/tree/master/images/mapillary/merge.png)
 
 
 
