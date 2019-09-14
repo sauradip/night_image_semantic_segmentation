@@ -8,16 +8,16 @@ The model can be found in the following link : https://drive.google.com/open?id=
 
 Instructions 
 ## Result on Berkley Deep Drive Dataset
-
-![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/bdd/merge.png)
-
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/bdd/merge.png">
+</p>
 ## Result on Cityscapes Dataset
-
-![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/cityscapes/merge.png)
-
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/cityscapes/merge.png">
+</p>
 ## Result on Mapillary Dataset
-
-![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/mapillary/merge.png)
-
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/mapillary/merge.png">
+</p>
 
 
