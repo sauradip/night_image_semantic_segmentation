@@ -17,7 +17,7 @@ Instructions
 
 ## Result on Mapillary Dataset
 
-![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/tree/master/images/mapillary/merge.png)
+![Image of Real Image](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/mapillary/merge.png)
 
 
 
