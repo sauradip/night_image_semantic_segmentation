@@ -7,8 +7,14 @@ This is the official github repository for the paper "What's There in The Dark" 
 ![Model Architecture](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/archi.jpg)
 
 Since we are submitting in journal, we currently cannot make the code public, however, we are making the data preparation code public. Infact we are the first one to make the model for day to night image conversion public. 
-### Day to Night Conversion using CycleGANS ( [CycleGANS](https://github.com/junyanz/CycleGAN))
-The model can be found in the following link : https://drive.google.com/open?id=1B7KvOMZI1nMkcuUrXrZnNZ0ptG2vs7Tp
+### Day to Night Conversion using CycleGANS ( [CycleGANS](https://github.com/junyanz/CycleGAN) )
+
+##### Steps : 
+- Go to the CycleGANS github link and clone the code.
+- Download the pretrained model from the following link [ [Pretrained_Model](https://drive.google.com/open?id=1B7KvOMZI1nMkcuUrXrZnNZ0ptG2vs7Tp) ].
+- Place the folder contents (latest_net_G_A.pth, latest_net_G_B.pth, latest_net_D_A.pth, latest_net_D_B.pth) into the checkpoint/any_name folder.
+- Run the testing code as mentioned in CycleGANS website.
+The model can be found in the following link : 
 
 Instructions 
 ## Result on Berkley Deep Drive Dataset
