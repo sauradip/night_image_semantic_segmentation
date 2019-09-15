@@ -34,6 +34,14 @@ Since we are submitting in journal, we currently cannot make the code public, ho
   <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/mapillary/merge.png">
 </p>
 
+# Results 
+
+The results were generated using NiSeNet in the following dataset BDD, Mapillary, UNDD(proposed) : 
+
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/cityscapes/merge.png">
+</p>
+
 
 # References 
 
