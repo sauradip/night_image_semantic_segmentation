@@ -14,7 +14,7 @@ Since we are submitting in journal, we currently cannot make the code public, ho
 - Download the pretrained model from the following link [ [Pretrained_Model](https://drive.google.com/open?id=1B7KvOMZI1nMkcuUrXrZnNZ0ptG2vs7Tp) ].
 - Place the folder contents (latest_net_G_A.pth, latest_net_G_B.pth, latest_net_D_A.pth, latest_net_D_B.pth) into the checkpoint/any_name folder.
 - Run the testing code as mentioned in CycleGANS website.
-The model can be found in the following link : 
+
 
 Instructions 
 ## Result on Berkley Deep Drive Dataset
