@@ -8,6 +8,10 @@ This is the official github repository for the paper "What's There in The Dark" 
 
 Since we are submitting in journal, we currently cannot make the code public, however, we are making the data preparation code public. Infact we are the first one to make the model for day to night image conversion public. However, we have made the multi-scale architecture code public. Interested users can download adaptsegnet and deeplabv3+ and plug this code in as the last module and train. 
 
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/demo_video.gif">
+</p>
+
 ### Day to Night Conversion using CycleGANS ( [CycleGANS](https://github.com/junyanz/CycleGAN) )
 
 ##### Steps : 
