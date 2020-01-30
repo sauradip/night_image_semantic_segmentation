@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/208427167.svg)](https://zenodo.org/badge/latestdoi/208427167)
 
 
-# What's There in the Dark, ICIP19 ( ICIP "Spotlight Paper" )
+# What's There in the Dark, ICIP19 (ICIP "Spotlight Paper")
 
 This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors) ][ [Papers with code]( https://paperswithcode.com/paper/whats-there-in-the-dark) ]
 
@@ -12,7 +12,10 @@ of 7125 unlabelled day and night images; additionally, it has 75 night images wi
 
 ## Demo 
 
-![Demo](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/demo_video.gif)
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/demo_video.gif">
+</p>
+
 
 ### Model Architecture : 
 
