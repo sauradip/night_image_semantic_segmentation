@@ -60,6 +60,10 @@ The results were generated using NiSeNet on the following dataset BDD, Mapillary
   <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/comp_result2.png">
 </p>
 
+# Update : 24 June, 2020
+
+Updated codes and models are uploaded in the following link [Code](https://drive.google.com/uc?id=16oC5AD9tnALHvX8_9eqOcJePkv6EEbLC&export=download)
+Will add in the main repository once free.
 
 # References 
 
