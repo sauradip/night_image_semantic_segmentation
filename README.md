@@ -5,6 +5,8 @@
 
 This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors) ][ [Papers with code]( https://paperswithcode.com/paper/whats-there-in-the-dark) ] [[Latest Code](https://drive.google.com/uc?id=16oC5AD9tnALHvX8_9eqOcJePkv6EEbLC&export=download)]
 
+Using this you can do semantic segmentation on night images.
+
 ## Abstract 
 
 Scene Parsing is an important cog for modern autonomous driving systems. Most of the works in semantic segmentation pertains to day-time scenes with favourable weather and illumination conditions. In this paper, we propose a novel deep architecture, NiSeNet, that performs semantic segmentation of night scenes using a domain mapping approach of synthetic to real data. It is a dual-channel network, where we designed a Real channel using DeepLabV3+ coupled with an MSE loss to preserve the spatial information. In addition, we used an Adaptive channel reducing the domain gap between synthetic and real night images, which also complements the failures of Real channel output. Apart from the dual channel, we introduced a novel fusion scheme to fuse the outputs of two channels. In addition to that, we compiled a new dataset Urban Night Driving Dataset (UNDD); it consists
