@@ -71,12 +71,14 @@ Will add in the main repository once free.
 
 If you find this code useful in your research, please consider citing:
 
-> @inproceedings{nag2019s,
-  title={What’s There in the Dark},
-  author={Nag, Sauradip and Adak, Saptakatha and Das, Sukhendu},
-  booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
-  pages={2996--3000},
-  year={2019},
-  organization={IEEE}
-}
+'''
+  > @inproceedings{nag2019s,
+    title={What’s There in the Dark},
+    author={Nag, Sauradip and Adak, Saptakatha and Das, Sukhendu},
+    booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+    pages={2996--3000},
+    year={2019},
+    organization={IEEE}
+  }
+'''
 
