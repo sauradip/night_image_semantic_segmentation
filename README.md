@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/208427167.svg)](https://zenodo.org/badge/latestdoi/208427167) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-s-there-in-the-dark/semantic-segmentation-on-bdd)](https://paperswithcode.com/sota/semantic-segmentation-on-bdd?p=what-s-there-in-the-dark)
+[![DOI](https://zenodo.org/badge/208427167.svg)](https://zenodo.org/badge/latestdoi/208427167) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-s-there-in-the-dark/semantic-segmentation-on-bdd)](https://paperswithcode.com/sota/semantic-segmentation-on-bdd?p=what-s-there-in-the-dark) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-s-there-in-the-dark/semantic-segmentation-on-mapillary-val)](https://paperswithcode.com/sota/semantic-segmentation-on-mapillary-val?p=what-s-there-in-the-dark)
 
 
 # What's There in the Dark, ICIP19 (ICIP "Spotlight Paper")
