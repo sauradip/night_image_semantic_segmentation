@@ -3,7 +3,7 @@
 
 # What's There in the Dark, ICIP19 (ICIP "Spotlight Paper")
 
-This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors) ][ [Papers with code]( https://paperswithcode.com/paper/what-s-there-in-the-dark) ] [[Latest Code](https://drive.google.com/uc?id=16oC5AD9tnALHvX8_9eqOcJePkv6EEbLC&export=download)]
+This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors) ][ [Papers with code]( https://paperswithcode.com/paper/what-s-there-in-the-dark) ] [[Poster](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/ICIP_poster_v4.pdf)]
 
 Using this you can do semantic segmentation on night images.
 
@@ -79,6 +79,7 @@ The checkpoints will be stored in "real_checkpoint" directory ( Since we will us
 ```bash
    sh test_v2.sh
    ```
+Some sample results and data format samples have been provided in this [link](https://drive.google.com/drive/folders/1Y5EoJy-m54epgc6iGNPCh6HlIXHzX73V?usp=sharing)
 
 ## Result on Berkley Deep Drive Dataset
 
