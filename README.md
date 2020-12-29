@@ -30,11 +30,22 @@ Since we are submitting in journal, we currently cannot make the code public, ho
 
 ### Day to Night Conversion using CycleGANS ( [CycleGANS](https://github.com/junyanz/CycleGAN) )
 
-##### Steps : 
+##### Preprocessing Steps : 
 - Go to the CycleGANS github link and clone the code.
 - Download the pretrained model from the following link [ [Pretrained_Model](https://drive.google.com/open?id=1B7KvOMZI1nMkcuUrXrZnNZ0ptG2vs7Tp) ].
 - Place the folder contents (latest_net_G_A.pth, latest_net_G_B.pth, latest_net_D_A.pth, latest_net_D_B.pth) into the checkpoint/any_name folder.
 - Run the testing code as mentioned in CycleGANS website.
+
+##### Steps to Run Code :
+
+* Step 1 : Downloading weights for [Real Channel](https://drive.google.com/drive/folders/1iOwZiheJ1JBEw7RizBqaVfk9Lh7ufJNE?usp=sharing) and [Adaptive Channel](https://drive.google.com/drive/folders/1kkTyRBcoRlh7jrbNoo0jhkWaKofnKVUC?usp=sharing) 
+
+```bash
+    Place the "checkpoints" dir from Real Channel Link in "real/DeepLabV3Plus-Pytorch"
+    Place the files in Adaptive CHannel Link in "adapt/AdaptSegNet/model"
+   ```
+
+
 
 ## Result on Berkley Deep Drive Dataset
 
