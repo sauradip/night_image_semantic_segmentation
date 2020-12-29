@@ -36,6 +36,8 @@ Since we are submitting in journal, we currently cannot make the code public, ho
 - Place the folder contents (latest_net_G_A.pth, latest_net_G_B.pth, latest_net_D_A.pth, latest_net_D_B.pth) into the checkpoint/any_name folder.
 - Run the testing code as mentioned in CycleGANS website.
 
+### Training and Testing NiSeNet for Night Scene Segmentation
+
 ##### Steps to Run Code :
 
 * Step 1 : Cloning and Environment Setup : 
