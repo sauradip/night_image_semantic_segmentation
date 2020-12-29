@@ -38,14 +38,45 @@ Since we are submitting in journal, we currently cannot make the code public, ho
 
 ##### Steps to Run Code :
 
-* Step 1 : Downloading weights for [Real Channel](https://drive.google.com/drive/folders/1iOwZiheJ1JBEw7RizBqaVfk9Lh7ufJNE?usp=sharing) and [Adaptive Channel](https://drive.google.com/drive/folders/1kkTyRBcoRlh7jrbNoo0jhkWaKofnKVUC?usp=sharing) 
+* Step 1 : Cloning and Environment Setup : 
+
+```bash
+    python3 -m venv icip
+    source activate icip
+    git clone https://github.com/sauradip/night_image_semantic_segmentation.git
+    cd night_image_semantic_segmentation
+    pip3 install -r icip_requirements.txt
+   ```
+
+* Step 2 : Downloading weights for [Real Channel](https://drive.google.com/drive/folders/1iOwZiheJ1JBEw7RizBqaVfk9Lh7ufJNE?usp=sharing) and [Adaptive Channel](https://drive.google.com/drive/folders/1kkTyRBcoRlh7jrbNoo0jhkWaKofnKVUC?usp=sharing) 
 
 ```bash
     Place the "checkpoints" dir from Real Channel Link in "real/DeepLabV3Plus-Pytorch"
     Place the files in Adaptive CHannel Link in "adapt/AdaptSegNet/model"
    ```
+* Step 3 : Prepare Data ( A sample has been given in "data_" directory )
 
+```bash
+    Place the preprocessed data mentioned in preprocessing step in "data_" folder , i.e preprocessed Night Images in "leftImg8bit" folder and GT In "gtFine" folder
+   ```
+* Step 4 : Set Paths and other hyperparameters in file  "config/cityscapes_config.py"
 
+> **IMPORTANT**
+>
+> If you want to run this code for other datasets, train the real channel and adaptive channel with their respective training codes given in "real/DeepLabV3Plus-Pytorch" and "adapt/AdaptSegNet" folder and follow Step 2 and Step 3. I have provided checkpoints for Cityscapes only
+
+* Step 5 : **Training**
+
+```bash
+    python main_model.py 
+   ```
+The checkpoints will be stored in "real_checkpoint" directory ( Since we will use only real channel weights during inference
+
+* Step 6 : **Testing**
+
+```bash
+   sh test_v2.sh
+   ```
 
 ## Result on Berkley Deep Drive Dataset
 
