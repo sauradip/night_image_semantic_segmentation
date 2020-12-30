@@ -3,7 +3,7 @@
 
 # What's There in the Dark, ICIP19 (ICIP "Spotlight Paper")
 
-This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors) ][ [Papers with code]( https://paperswithcode.com/paper/what-s-there-in-the-dark) ] [[Poster](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/ICIP_poster_v4.pdf)]
+This is the official github repository for the paper "What's There in The Dark" accepted in IEEE International Conference in Image Processing 2019 (ICIP19) , Taipei, Taiwan. [ [Paper](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors)][[Supplementary](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/What_s_there_in_the_Dark_supp.pdf)] [Papers with code]( https://paperswithcode.com/paper/what-s-there-in-the-dark) ] [[Poster](https://github.com/sauradip/night_image_semantic_segmentation/blob/master/ICIP_poster_v4.pdf)]
 
 Using this you can do semantic segmentation on night images.
 
@@ -84,6 +84,10 @@ Some sample results and data format samples have been provided in this [link](ht
 ## Urban Night Driving Dataset (UNDD)
 
 The following [link](https://drive.google.com/drive/folders/1KBn3LIoD5rvNFDe2aZCH-4mNo6iXSuGX?usp=sharing) contains our proposed Urban Night Driving Dataset. We have provided only the testing split for now 
+
+<p align="center">
+  <img src="https://github.com/sauradip/night_image_semantic_segmentation/blob/master/images/others/undd.png">
+</p>
 
 ## Result on Berkley Deep Drive Dataset
 
