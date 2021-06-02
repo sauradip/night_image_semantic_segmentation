@@ -25,7 +25,7 @@ torchfile==0.1.0
 torchvision==0.2.2
 tornado==6.0.4
 tqdm==4.19.9
-urllib3==1.25.9
+urllib3==1.26.5
 visdom==0.1.8.3
 websocket-client==0.57.0
 yacs==0.1.7
